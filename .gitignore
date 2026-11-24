@@ -1,0 +1,19 @@
+# Сборка и артефакты
+target/
+build/
+out/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven wrapper (важно оставить!)
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+
+# ОС и прочее
+.DS_Store
+Thumbs.db
